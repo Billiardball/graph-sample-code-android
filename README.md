@@ -68,9 +68,9 @@ See the [**javadocs**](https://jitpack.io/com/github/PhilJay/MPAndroidChart/v3.1
 
 <h2 id="examples">Examples :eyes:</h2>
 
-Download the [MPAndroidChart Example App](https://play.google.com/store/apps/details?id=com.xxmassdeveloper.mpchartexample) or look at the [source code](https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartExample).
+Download the [MPAndroidChart Example App](https://play.google.com/store/apps/details?id=com.xxmassdeveloper.mpchartexample) or look at the [source code](https://github.com/Billiardball/graph-sample-code-android/tree/master/MPChartExample).
 
-[![ScreenShot](https://github.com/PhilJay/MPAndroidChart/blob/master/design/video_thumbnail.png)](https://www.youtube.com/watch?v=ufaK_Hd6BpI)
+[![ScreenShot](https://github.com/Billiardball/graph-sample-code-android/blob/master/design/video_thumbnail.png)](https://www.youtube.com/watch?v=ufaK_Hd6BpI)
 
 <br/>
 
@@ -111,9 +111,9 @@ Please read the [**documentation**](https://weeklycoding.com/mpandroidchart/) fi
 
 If you like this library, please tell others about it :two_hearts: :two_hearts:
 
-[![Share on Twitter](https://github.com/PhilJay/MPAndroidChart/blob/master/design/twitter_icon.png)](https://twitter.com/intent/tweet?text=Check%20out%20the%20awesome%20MPAndroidChart%20library%20on%20Github:%20https://github.com/PhilJay/MPAndroidChart)
-[![Share on Google+](https://github.com/PhilJay/MPAndroidChart/blob/master/design/googleplus_icon.png)](https://plus.google.com/share?url=https://github.com/PhilJay/MPAndroidChart)
-[![Share on Facebook](https://github.com/PhilJay/MPAndroidChart/blob/master/design/facebook_icon.png)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/PhilJay/MPAndroidChart)
+[![Share on Twitter](https://github.com/Billiardball/graph-sample-code-android/blob/master/design/twitter_icon.png)](https://twitter.com/intent/tweet?text=Check%20out%20the%20awesome%20MPAndroidChart%20library%20on%20Github:%20https://github.com/Billiardball/graph-sample-code-android)
+[![Share on Google+](https://github.com/Billiardball/graph-sample-code-android/blob/master/design/googleplus_icon.png)](https://plus.google.com/share?url=https://github.com/Billiardball/graph-sample-code-android)
+[![Share on Facebook](https://github.com/Billiardball/graph-sample-code-android/blob/master/design/facebook_icon.png)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Billiardball/graph-sample-code-android)
 
 You can follow me on Twitter [**@PhilippJahoda**](https://twitter.com/PhilippJahoda) or sign up for my [**coding newsletter**](https://weeklycoding.com).
 

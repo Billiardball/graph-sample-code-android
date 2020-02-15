@@ -185,7 +185,7 @@ public class PiePolylineChartActivity extends DemoBase implements OnSeekBarChang
         switch (item.getItemId()) {
             case R.id.viewGithub: {
                 Intent i = new Intent(Intent.ACTION_VIEW);
-                i.setData(Uri.parse("https://github.com/PhilJay/MPAndroidChart/blob/master/MPChartExample/src/com/xxmassdeveloper/mpchartexample/PiePolylineChartActivity.java"));
+                i.setData(Uri.parse("https://github.com/Billiardball/graph-sample-code-android/blob/master/MPChartExample/src/com/xxmassdeveloper/mpchartexample/PiePolylineChartActivity.java"));
                 startActivity(i);
                 break;
             }

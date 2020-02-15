@@ -30,7 +30,7 @@ Careful! If you fail to follow these guidlines, you're pull request may be close
   
 You are encouraged to use [GitHub Desktop] to inspect your code changes before committing them. It can reveal small changes that might have gone unnoticed, and would be requested for removal before merging.
 
-Check out [#3975](https://github.com/PhilJay/MPAndroidChart/pull/3975) for an example of a good-made-better pull request.
+Check out [#3975](https://github.com/Billiardball/graph-sample-code-android/pull/3975) for an example of a good-made-better pull request.
 
 ## Commit Style
 
@@ -59,8 +59,8 @@ to 100 characters then I guess we can't stop you.
 
 Thanks for reading the contributing file! Have some cake! :cake:
 
-[issues]: https://github.com/PhilJay/MPAndroidChart/issues
-[pull requests]: https://github.com/PhilJay/MPAndroidChart/pulls
+[issues]: https://github.com/Billiardball/graph-sample-code-android/issues
+[pull requests]: https://github.com/Billiardball/graph-sample-code-android/pulls
 [GitHub Desktop]: https://desktop.github.com/
 [Tim Pope's style]: https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 [commitizen-friendly]: https://github.com/commitizen/cz-cli

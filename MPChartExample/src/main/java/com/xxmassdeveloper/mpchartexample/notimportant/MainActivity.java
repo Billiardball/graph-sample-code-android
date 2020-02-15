@@ -258,7 +258,7 @@ public class MainActivity extends AppCompatActivity implements OnItemClickListen
         switch (item.getItemId()) {
             case R.id.viewGithub:
                 i = new Intent(Intent.ACTION_VIEW);
-                i.setData(Uri.parse("https://github.com/PhilJay/MPAndroidChart"));
+                i.setData(Uri.parse("https://github.com/Billiardball/graph-sample-code-android"));
                 startActivity(i);
                 break;
             case R.id.report:

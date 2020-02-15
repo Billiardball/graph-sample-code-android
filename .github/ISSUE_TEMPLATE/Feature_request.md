@@ -14,7 +14,7 @@ If you have a support request or question please submit them on StackOverflow:
 using the tags `android` & `mpandroidchart`
 
 Please also look at the CONTRIBUTING file before opening an issue:
-  https://github.com/PhilJay/MPAndroidChart/blob/master/CONTRIBUTING.md
+  https://github.com/Billiardball/graph-sample-code-android/blob/master/CONTRIBUTING.md
 
 Issues on GitHub are only related to problems with MPAndroidChart itself and we cannot answer
 support questions here. We will close your issue without a response.

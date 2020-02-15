@@ -150,7 +150,7 @@ public class MultiLineChartActivity extends DemoBase implements OnSeekBarChangeL
         switch (item.getItemId()) {
             case R.id.viewGithub: {
                 Intent i = new Intent(Intent.ACTION_VIEW);
-                i.setData(Uri.parse("https://github.com/PhilJay/MPAndroidChart/blob/master/MPChartExample/src/com/xxmassdeveloper/mpchartexample/MultiLineChartActivity.java"));
+                i.setData(Uri.parse("https://github.com/Billiardball/graph-sample-code-android/blob/master/MPChartExample/src/com/xxmassdeveloper/mpchartexample/MultiLineChartActivity.java"));
                 startActivity(i);
                 break;
             }

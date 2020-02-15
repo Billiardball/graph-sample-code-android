@@ -22,7 +22,7 @@
     <artifactId>MPAndroidChart</artifactId>
     <name>MPAndroidChart</name>
 	<description>A simple Android chart view/graph view library, supporting line- bar- and piecharts as well as scaling, dragging and animations</description>
-	<url>https://github.com/PhilJay/MPAndroidChart</url>
+	<url>https://github.com/Billiardball/graph-sample-code-android</url>
     <packaging>apklib</packaging>
     <!--<packaging>aar</packaging>-->
 
@@ -60,7 +60,7 @@
 
 
     <issueManagement>
-        <url>https://github.com/PhilJay/MPAndroidChart/issues</url>
+        <url>https://github.com/Billiardball/graph-sample-code-android/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 
@@ -73,7 +73,7 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/PhilJay/MPAndroidChart</url>
+        <url>https://github.com/Billiardball/graph-sample-code-android</url>
         <connection>scm:git:git://github.com/PhilJay/MPAndroidChart.git</connection>
         <developerConnection>scm:git:git@github.com:PhilJay/MPAndroidChart.git</developerConnection>
     </scm>
